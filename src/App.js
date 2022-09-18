@@ -10,7 +10,6 @@ function App() {
   return (
     <>
       <NavMenu />
-      <Home />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/Nosotros" element={<Nosotros />} />
