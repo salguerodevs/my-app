@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "http://salguerodevs.github.io/my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -46,6 +47,5 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  },
-  "homepage": "https://salguerodevs.github.io/my-app/"
+  }
 }
